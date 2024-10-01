@@ -8,8 +8,10 @@
   - [Data Structures and Algorithms](https://github.com/buian-dragos/dsa)
   - [Graph Algorithms](https://github.com/buian-dragos/graph-algo)
 - Semester 3
-  - [Advance Programming Methods](https://github.com/buian-dragos/apm)
+  - [Advanced Programming Methods](https://github.com/buian-dragos/apm)
   - [Functional and Logic Programming](https://github.com/buian-dragos/func-logic)
+  - [Databases](https://github.com/buian-dragos/db-sem3)
+  - [Probability and Statistics](https://github.com/buian-dragos/probabily-statistics)
 - Semester 4
   - [Database Management Systems](https://github.com/buian-dragos/dbms)
   - [Web Programming](https://github.com/buian-dragos/webp)
