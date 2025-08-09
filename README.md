@@ -17,5 +17,13 @@
   - [Web Programming](https://github.com/buian-dragos/webp)
   - [Software Engineering](https://github.com/buian-dragos/iss)
   - [Systems for Design and Implementation](https://github.com/buian-dragos/mpp)
-- Semester 5 (current) 
-  - TODO: Add here
+- Semester 5
+  - [Formal Languages and Compiler Design](https://github.com/buian-dragos/flcd)
+  - [Parallel and Distributed Programming](https://github.com/buian-dragos/pdp)
+  - [Mobile Applications](https://github.com/buian-dragos/mobile)
+  - [Virtual Reality](https://github.com/buian-dragos/vr)
+- Semester 6
+  - [Natural Language Processing](https://github.com/buian-dragos/nlp)
+  - [Verification and Validation of Software Systems](https://github.com/buian-dragos/vvss)
+  - [Android Things (IoT)](https://github.com/buian-dragos/android-things)
+  - [Numerical Calculus](https://github.com/buian-dragos/numerical-calculus)
